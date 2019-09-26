@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Ali.ApiGatewayClient.Test", "Light.Ali.ApiGatewatClient.Test\Light.Ali.ApiGatewayClient.Test.csproj", "{F2DF4819-FBF9-459C-98AE-692A5E7F328B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Ali.ApiGateway.SDK", "Light.Ali.ApiGateway.SDK\Light.Ali.ApiGateway.SDK.csproj", "{1D768F94-8BCF-44EA-BCB8-82E80152AE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2DF4819-FBF9-459C-98AE-692A5E7F328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DF4819-FBF9-459C-98AE-692A5E7F328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DF4819-FBF9-459C-98AE-692A5E7F328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DF4819-FBF9-459C-98AE-692A5E7F328B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D768F94-8BCF-44EA-BCB8-82E80152AE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D768F94-8BCF-44EA-BCB8-82E80152AE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D768F94-8BCF-44EA-BCB8-82E80152AE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D768F94-8BCF-44EA-BCB8-82E80152AE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737BC86E-05F3-45EF-B0E8-C1F946CB7BE6}
+	EndGlobalSection
+EndGlobal
